@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Lisa White! 👋 I'm a Full-Stack Software Engineer looking for my next professional opportunity in the Denver area.
+
+- 📫 How to reach me: whitelisab@gmail.com
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I am a big tennis fan and have been to the US Open three times. It's a life goal of mine to make it to all the Grand Slams! 
 
 <!--
 **whitelisab/whitelisab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
