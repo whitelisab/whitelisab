@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/whitelisab%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:whitelisab@gmail.com)](mailto:whitelisab@gmail.com)
 [![Twitter](https://img.shields.io/badge/lmbel%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/lmbel/)](https://twitter.com/lmbel/)
 
-- :office: Employed as a Junior Software Engineer at [TaskRay](https://taskray.com/)
+- :office: Employed as a Software Engineer at [TaskRay](https://taskray.com/)
 - :round_pushpin: Based in Denver, CO
 - :smile: Pronouns: she/her/hers
 
